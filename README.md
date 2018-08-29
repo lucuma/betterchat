@@ -1,4 +1,4 @@
-# betterlimp :unicorn:
+# betterchat :unicorn:
 
 A chrome extension to improve a limp chat experience.
 
